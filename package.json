@@ -1,0 +1,24 @@
+{
+  "name": " ",
+  "version": "1.0.0",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon card.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "inquirer": "^8.1.5",
+    "open": "^8.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "description": ""
+}
